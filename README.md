@@ -4,7 +4,7 @@ Learning Centre website
 #**Eslatma!!!**
 ```shell
 virtualenv venv
-source venv/bin/activate
+venv/bin/activate
 pip install django pillow
 mkdir media
 mkdir static

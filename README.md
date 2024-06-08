@@ -1,7 +1,7 @@
 # L_Center
 Learning Centre website
 
-## Dars ketma-ketligi
+#**Eslatma!!!**
 ```shell
 virtualenv venv
 source venv/bin/activate
